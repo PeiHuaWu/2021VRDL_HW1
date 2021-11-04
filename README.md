@@ -45,9 +45,9 @@ Our model achieves the following performance on :
 
 ### [Bird Image Classification on ResNet50]
 
-| Model name         | Top 1 Accuracy  | Top 5 Accuracy |
-| ------------------ |---------------- | -------------- |
-| My awesome model   |     85%         |      95%       |
+| Model name         | ResNet50  | 
+| ------------------ |---------- | 
+| My awesome model   |     85%   | 
 
 
 
