@@ -32,11 +32,11 @@ To evaluate my model on ImageNet, run:
 python inference.py --model-file weight.pth 
 ```
 
-## Pre-trained Models
+## Weight for Pre-trained Model
 
-You can download pretrained models here:
+You can download the file here:
 
-- [My awesome model](https://drive.google.com/weight.pth) 
+- [My awesome model](https://drive.google.com/file/d/1EhhSuLb4FHcRADGh7Fi_ute492mAQavk/view?usp=sharing) 
 
 
 ## Results
