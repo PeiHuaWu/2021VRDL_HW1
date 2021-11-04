@@ -9,14 +9,6 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-## Training
-
-To train the model(s) in the paper, run this command:
-
-```train
-python ResNet50.py --input-data <path_to_data> --alpha 10 --beta 20
-```
-
 ## Testing
 
 To evaluate my model on ImageNet, run:
