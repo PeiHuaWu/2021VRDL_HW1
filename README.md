@@ -47,7 +47,7 @@ Our model achieves the following performance on :
 
 | Model name         | ResNet50  | 
 | ------------------ |---------- | 
-| My awesome model   |     85%   | 
+| My awesome model   |   60.4%   | 
 
 
 
